@@ -1,0 +1,18 @@
+.menu {
+  background-color: #f4f4f4;
+  padding-top: 10px;
+
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+
+    li {
+      list-style: none;
+    }
+  }
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+}
