@@ -5,13 +5,16 @@ const Menu = () => (
   <div className="menu">
     <ul>
       <li>
-        <Link to="/">Home</Link>
+        <Link to="/">About</Link>
+      </li>
+      <li>
+        <Link to="/projects">Projects</Link>
       </li>
       <li>
         <Link to="/blog">Blog</Link>
       </li>
       <li>
-        <Link to="/projects">Projects</Link>
+        <Link to="/contact">Contact</Link>
       </li>
     </ul>
   </div>

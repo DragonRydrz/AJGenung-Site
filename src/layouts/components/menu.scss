@@ -1,11 +1,12 @@
 .menu {
   background-color: #f4f4f4;
   padding-top: 10px;
+  margin-bottom: 20px;
 
   ul {
+    margin: auto;
     display: flex;
     justify-content: space-evenly;
-    align-items: baseline;
 
     li {
       list-style: none;
